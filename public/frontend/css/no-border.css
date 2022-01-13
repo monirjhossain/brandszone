@@ -1,0 +1,13 @@
+/* No Border */
+.no-border-col {
+  padding: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.no-border-col .single-product {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  margin-bottom : 0 !important;  
+  border: 1px solid rgba(228,228,228,.5) !important;
+}
+/* No Border::END */

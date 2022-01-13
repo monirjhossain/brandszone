@@ -1,0 +1,13 @@
+1.scale-in-center
+2.swirl-in-fwd
+3.swirl-in-bck
+4.flip-in-diag-1-bl
+5.slit-in-diagonal-2
+6.slide-in-fwd-center
+7.slide-in-elliptic-right-fwd
+8.bounce-in-fwd
+9.roll-in-left
+10.roll-in-top
+11.roll-in-right
+12.roll-in-bottom
+13.roll-in-blurred-bottom

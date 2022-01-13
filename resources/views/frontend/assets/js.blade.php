@@ -1,0 +1,19 @@
+<script src="{{ asset('frontend/plugins/jquery.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/popper.js') }}" defer></script>
+<script src="{{ asset('frontend/js/main.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/owl-carousel/owl.carousel.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/imagesloaded.pkgd.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/masonry.pkgd.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/isotope.pkgd.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/jquery.matchHeight-min.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/slick/slick/slick.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/slick-animation.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/jquery-ui/jquery-ui.js') }}" defer></script>
+<script src="{{ asset('frontend/plugins/jquery.slimscroll.js') }}" defer></script>
+<script src="{{ asset('js/parsley.js') }}"></script>
+<script src="{{ asset('js/jquery.cookie.js') }}" defer></script>
+<script src="{{ asset('frontend/js/wow.min.js') }}" defer></script>
+<!-- custom scripts-->
+<script src="{{ asset('js/toastr.js') }}" defer></script>
+<script src="{{ asset('js/countdown.js') }}" defer></script>
+<script src="{{ asset('js/version3.js') }}" defer></script>
